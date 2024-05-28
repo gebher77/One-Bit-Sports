@@ -12,7 +12,3 @@ Sports Activity Page is a responsive web page that lists various sports that can
 
 - **HTML5:** For the structure of the web page.
 - **CSS3:** For styling and ensuring the page is responsive.
-
-## 🏁 Getting Started
-
-To get a local copy up and running, follow these simple steps.
